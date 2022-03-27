@@ -1,0 +1,2 @@
+# Sucrose
+Personal Discord Bot
